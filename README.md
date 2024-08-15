@@ -12,9 +12,7 @@ This project involves building the back end for an e-commerce site using modern 
 * Routes
 * Walkthrough Video
 * License
-* Contact
-* Installation
-* Clone the Repository:
+
 
 ## Installation
 1. Clone the Repository:
@@ -33,6 +31,7 @@ Create a .env file in the root of your project and add the following environment
 DB_NAME=<your_database_name>
 DB_USER=<your_postgresql_username>
 DB_PASSWORD=<your_postgresql_password>
+
 Set Up the Database:
 Use the provided schema.sql file to create your PostgreSQL database.
 
@@ -40,7 +39,7 @@ Use the provided schema.sql file to create your PostgreSQL database.
 
 psql -U postgres
 
-Insert your passoword 
+Insert your password 
 
 
 5. Seed the Database:
